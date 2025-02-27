@@ -11,8 +11,8 @@ import eight from '../assets/svg/projects/eight.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Ouro Better Credit',
-        projectDesc: 'Ouro combines a flexible credit line with an intuitive web wallet, offering users a seamless and user-friendly experience.',
+        projectName: 'Ouro より良い信用',
+        projectDesc: 'Ouroは、柔軟なクレジットラインと直感的なウェブウォレットを組み合わせることで、シームレスでユーザーフレンドリーな体験を提供します。',
         tags: ['React', 'Next.js', 'Typescript'],
         code: 'https://www.ouro.com/',
         demo: 'https://www.ouro.com/',
@@ -21,7 +21,7 @@ export const projectsData = [
     {
         id: 2,
         projectName: 'GoSchoolBox',
-        projectDesc: 'GoSchoolBox is a SaaS platform that serves as the technical infrastructure layer between school districts and tutoring companies.',
+        projectDesc: 'GoSchoolBoxは、学校区と家庭教師会社の間の技術インフラ層として機能するSaaSプラットフォームです。',
         tags: ['AWS', 'Node.js', 'MongoDB'],
         code: 'https://goschoolbox.com/',
         demo: 'https://goschoolbox.com/',
@@ -30,7 +30,7 @@ export const projectsData = [
     {
         id: 3,
         projectName: 'Stackbit',
-        projectDesc: 'Stackbit is a website builder that helps developers of any level to build their own Jamstack sites based on Next.js and Tailwind, fast.',
+        projectDesc: 'Stackbitは、あらゆるレベルの開発者が、Next.jsとTailwindを基盤としたJamstackサイトを素早く構築できるウェブサイトビルダーです。',
         tags: ['React', 'Node', 'MongoDB'],
         code: 'https://app.stackbit.com/dashboard',
         demo: 'https://app.stackbit.com/dashboard',
@@ -39,7 +39,7 @@ export const projectsData = [
     {
         id: 4,
         projectName: 'Meridian',
-        projectDesc: 'Meridian provides next-gen, AI-powered workflow tools to private investors.',
+        projectDesc: 'Meridianは、AIを活用した次世代のワークフローツールを個人投資家向けに提供しています。',
         tags: ['React', 'Storybook', 'Typescript'],
         code: 'https://www.meridian-ai.com',
         demo: 'https://www.meridian-ai.com',
@@ -48,7 +48,7 @@ export const projectsData = [
     {
         id: 5,
         projectName: 'Provenance',
-        projectDesc: 'As a fractional CTO I helped the team with strategic consulting on the product development roadmap.',
+        projectDesc: '私はフラクショナルCTOとして、製品開発ロードマップに関する戦略的コンサルティングを通じてチームを支援しました。',
         tags: ['AWS EC2', 'Node.js', 'React.js'],
         code: 'https://app.provenance.com/',
         demo: 'https://app.provenance.com/',
@@ -57,7 +57,7 @@ export const projectsData = [
     {
         id: 6,
         projectName: 'Investment Community Platform',
-        projectDesc: 'Investment community platform for investors to discover deals and identify co-investors.',
+        projectDesc: '投資家が投資案件を発見し、共同投資家を見つけるための投資コミュニティ・プラットフォームです。',
         tags: ['React','Node', 'MongoDB'],
         code: 'https://www.3imembers.com',
         demo: 'https://www.3imembers.com',
@@ -66,7 +66,7 @@ export const projectsData = [
     {
         id: 7,
         projectName: 'Archipelago',
-        projectDesc: 'Archipelago is a “next-generation” NFT marketplace that offers curated generative art NFTs.',
+        projectDesc: 'Archipelagoは、厳選されたジェネレーティブアートNFTを提供する次世代型NFTマーケットプレイスです。',
         tags: ['Next.js', 'Ethers.js', 'Typescript', 'Tailwind'],
         code: 'https://archipelago.art/',
         demo: 'https://archipelago.art/',
@@ -75,7 +75,7 @@ export const projectsData = [
     {
         id: 8,
         projectName: 'Nash',
-        projectDesc: 'Marketing website built with React & Gatsby. All pages are fully responsive and optimised for mobile viewing.',
+        projectDesc: 'ReactとGatsbyで構築されたマーケティングウェブサイトです。すべてのページが完全にレスポンシブで、モバイル閲覧に最適化されています。',
         tags: ['React', 'Gatsby','Typescript'],
         code: 'https://nash.io/',
         demo: 'https://nash.io/',

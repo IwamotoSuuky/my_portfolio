@@ -134,7 +134,7 @@ function Navbar() {
         <div className='navbar'>
             <div className='navbar--container'>
                 <h1 style={{ color: theme.secondary }}>
-                    {shortname(headerData.name)}
+                    {shortname("Iwamoto Suuky")}
                 </h1>
 
                 <IoMenuSharp
